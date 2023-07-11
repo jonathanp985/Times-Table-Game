@@ -303,7 +303,7 @@ void printResults(vector<int> cor, vector<int> inCor)
     {
         printf("Your correct answers were: ");
         cout << endl;
-        cout << "Numbers: ";
+        cout << "Q: Numbers: ";
         for(auto i: corNum)
             cout << i << " ";
 
